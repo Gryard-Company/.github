@@ -1,90 +1,99 @@
+<style>
+  a {
+    text-decoration: none;
+    color: #FF6F61; /* 코랄색 */
+  }
+
+  a:hover {
+    color: #FFB27A; /* 살구색 */
+  }
+</style>
+
 ## 🗂️ Projects Repository
 
 ### 📌 다움
-[다움 - GitHub Repository](https://github.com/Gryard-Company/Daum)   
-[다움 - Web Site]()
+<a href="https://github.com/Gryard-Company/Daum" target="_blank">다움 - GitHub Repository</a>   
+<a href="#" target="_blank">다움 - Web Site</a>
 
 ---
 
 ### 🔍 매칭박스
-[매칭박스 - GitHub Repository](https://github.com/Gryard-Company/Matching-Box)   
-[매칭박스 - Web Site](http://175.118.126.104:40004/)   
+<a href="https://github.com/Gryard-Company/Matching-Box" target="_blank">매칭박스 - GitHub Repository</a>   
+<a href="http://175.118.126.104:40004/" target="_blank">매칭박스 - Web Site</a>   
 
 ---
 
 ### 🌍 해외채용 플랫폼 (thebpos)
-[해외채용 플랫폼 (thebpos) - GitHub Repository](https://github.com/Gryard-Company/2STO)   
-[해외채용 플랫폼 (thebpos) - Web Site](http://thebpos.com/)
+<a href="https://github.com/Gryard-Company/2STO" target="_blank">해외채용 플랫폼 (thebpos) - GitHub Repository</a>   
+<a href="http://thebpos.com/" target="_blank">해외채용 플랫폼 (thebpos) - Web Site</a>
 
 ---
 
 ### 🌙 하루달
-[하루달 (Web) - GitHub Repository](https://github.com/Gryard-Company/Harudal-FrontEnd)   
-[하루달 (Server) - GitHub Repository](https://github.com/Gryard-Company/Harudal-BackEnd)   
-[하루달 (AI) - GitHub Repository](https://github.com/Gryard-Company/Harudal-AI)   
-[하루달 - Web Site]()
+<a href="https://github.com/Gryard-Company/Harudal-FrontEnd" target="_blank">하루달 (Web) - GitHub Repository</a>   
+<a href="https://github.com/Gryard-Company/Harudal-BackEnd" target="_blank">하루달 (Server) - GitHub Repository</a>   
+<a href="https://github.com/Gryard-Company/Harudal-AI" target="_blank">하루달 (AI) - GitHub Repository</a>   
+<a href="#" target="_blank">하루달 - Web Site</a>
 
 ---
 
 ### 📺 오렌지티비
-[오렌지티비 - GitHub Repository](https://github.com/Gryard-Company/OrangeTB)   
-[오렌지티비 - WEb Site](https://orangetb.com/)
+<a href="https://github.com/Gryard-Company/OrangeTB" target="_blank">오렌지티비 - GitHub Repository</a>   
+<a href="https://orangetb.com/" target="_blank">오렌지티비 - Web Site</a>
 
 ---
 
 ### 📡 푸른방송
-[푸른방송 - GitHub Repository](https://github.com/Gryard-Company/gcs)   
-[푸른방송 - Web Site](https://gcs.co.kr/)
+<a href="https://github.com/Gryard-Company/gcs" target="_blank">푸른방송 - GitHub Repository</a>   
+<a href="https://gcs.co.kr/" target="_blank">푸른방송 - Web Site</a>
 
 ---
 
 ### 🌐 구일
-[구일 (Web) - GitHub Repository](https://github.com/Gryard-Company/gooil-react)   
-[구일 (Server) - GitHub Repository](https://github.com/Gryard-Company/gooil-api)   
-[구일 - Web Site](http://175.118.126.104:30004/)
+<a href="https://github.com/Gryard-Company/gooil-react" target="_blank">구일 (Web) - GitHub Repository</a>   
+<a href="https://github.com/Gryard-Company/gooil-api" target="_blank">구일 (Server) - GitHub Repository</a>   
+<a href="http://175.118.126.104:30004/" target="_blank">구일 - Web Site</a>
 
 ---
 
 ### 🎓 수림장학회
-[수림장학회 - GitHub Repository](https://github.com/Gryard-Company/sourim)  
-[수림장학회 - Web Site](http://sourim.org/)
+<a href="https://github.com/Gryard-Company/sourim" target="_blank">수림장학회 - GitHub Repository</a>  
+<a href="http://sourim.org/" target="_blank">수림장학회 - Web Site</a>
 
 ---
 
 ### 💼 헬프마이비즈
-[헬프마이비즈 - GitHub Repository](https://github.com/Gryard-Company/Help-Mybiz)   
-[헬프마이비즈 - Web Site](http://helpmybiz.co.kr/)
+<a href="https://github.com/Gryard-Company/Help-Mybiz" target="_blank">헬프마이비즈 - GitHub Repository</a>   
+<a href="http://helpmybiz.co.kr/" target="_blank">헬프마이비즈 - Web Site</a>
 
 ---
 
 ### 🛠️ 카메오랩 CMMS
-[카메오랩 CMMS - GitHub Repository](https://github.com/Gryard-Company/Carmeolap-CMMS)   
-[카메오랩 CMMS - Web Site](http://thinkamuse.cafe24.com/resv/)
+<a href="https://github.com/Gryard-Company/Carmeolap-CMMS" target="_blank">카메오랩 CMMS - GitHub Repository</a>   
+<a href="http://thinkamuse.cafe24.com/resv/" target="_blank">카메오랩 CMMS - Web Site</a>
 
 ---
 
 ### 🏥 케어룸
-[케어룸 - GitHub Repository](https://github.com/Gryard-Company/kareroom)   
-[케어룸 - Web Site](http://inventories.kareroom.com/)
+<a href="https://github.com/Gryard-Company/kareroom" target="_blank">케어룸 - GitHub Repository</a>   
+<a href="http://inventories.kareroom.com/" target="_blank">케어룸 - Web Site</a>
 
 ---
 
 ### ❤️ 유앤미
-[유앤미 - GitHub Repository](https://github.com/Gryard-Company/younme)   
-[유앤미 - Web Site](http://younme.co.kr)
+<a href="https://github.com/Gryard-Company/younme" target="_blank">유앤미 - GitHub Repository</a>   
+<a href="http://younme.co.kr" target="_blank">유앤미 - Web Site</a>
 
 ---
 
 ### 🌾 코림
-[코림 - GitHub Repository](https://github.com/Gryard-Company/koream)   
-[코림 - Web Site](https://koream.co.th/)
+<a href="https://github.com/Gryard-Company/koream" target="_blank">코림 - GitHub Repository</a>   
+<a href="https://koream.co.th/" target="_blank">코림 - Web Site</a>
 
 ---
 
 ### 🏷️ 태깅박스
-[태깅박스 (Web) - GitHub Repository](https://github.com/Gryard-Company/taggingboxElectron)   
-[태깅박스 (Server) - GitHub Repository](https://github.com/Gryard-Company/taggingboxAPI)   
-[태깅박스 (Admin) - GitHub Repository](https://github.com/Gryard-Company/taggingboxAdmin)   
-[태깅박스 - Web Site](https://taggingbox.im)
-
----
+<a href="https://github.com/Gryard-Company/taggingboxElectron" target="_blank">태깅박스 (Web) - GitHub Repository</a>   
+<a href="https://github.com/Gryard-Company/taggingboxAPI" target="_blank">태깅박스 (Server) - GitHub Repository</a>   
+<a href="https://github.com/Gryard-Company/taggingboxAdmin" target="_blank">태깅박스 (Admin) - GitHub Repository</a>   
+<a href="https://taggingbox.im" target="_blank">태깅박스 - Web Site</a>
