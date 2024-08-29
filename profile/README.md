@@ -6,8 +6,6 @@
 
 ---
 
-## 🗂️ Projects Repository
-
 ### 📌 다움
 [다움 - GitHub Repository](https://github.com/Gryard-Company/Daum)   
 [다움 - Web Site](#)
