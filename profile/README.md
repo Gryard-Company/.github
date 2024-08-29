@@ -76,20 +76,10 @@
 ---
 
 ### 👔 세탁발전소(관리자)
-[다움 - GitHub Repository](https://github.com/Gryard-Company/wash)
-[다움 - Web Site](http://wash.daerida.com/)
-
----
-
-### 👔 세탁발전소(유저)
-[다움 - GitHub Repository](https://github.com/Gryard-Company/wash_user)
-[다움 - Web Site](#)
-
----
-
-### 👔 세탁발전소(매니저)
-[다움 - GitHub Repository](https://github.com/Gryard-Company/wash_manager)
-[다움 - Web Site](#)
+[세탁발전소 (관리자) - GitHub Repository](https://github.com/Gryard-Company/wash)
+[세탁발전소 (유저) - GitHub Repository](https://github.com/Gryard-Company/wash_user)
+[세탁발전소 (매니저) - GitHub Repository](https://github.com/Gryard-Company/wash_manager)
+[세탁발전소 (관리자) - Web Site](http://wash.daerida.com/)
 
 ---
 
