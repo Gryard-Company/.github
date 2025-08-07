@@ -103,3 +103,10 @@
     <a href="https://github.com/Gryard-Company/cameo-lab">카메오랩 - GitHub Repository</a> <br />
     <a href="http://">카메오랩 - Web Site</a>
 </details>
+
+<details markdown="1">
+    <summary>🎨 CDC Portal</summary>
+    <a href="https://github.com/Gryard-Company/CDC_portal_back">CDC포탈 백엔드 - GitHub Repository</a> <br />
+    <a href="https://github.com/Gryard-Company/CDC_portal_front">CDC포탈 프론트 - GitHub Repository</a> <br />
+    <a href="http://">CDC포탈 - Web Site</a>
+</details>
