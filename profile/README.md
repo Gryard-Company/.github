@@ -115,5 +115,5 @@
     <summary>:loudspeaker: 한국고미술협회</summary>
     <a href="https://github.com/Gryard-Company/hkauction">옥션사이트 - GitHub Repository</a> <br />
     <a href="https://github.com/Gryard-Company/home">홈페이지 - GitHub Repository</a> <br />
-    <a href="http://">CDC포탈 - Web Site</a>
+    <a href="https://www.hkoms.or.kr/">한국고미술협회 - Web Site</a>
 </details>
